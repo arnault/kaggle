@@ -1,6 +1,6 @@
 kaggle
 ======
 
-Code for the Acquire Valued Shoppers Challenge Kagge Competition.
-http://www.kaggle.com/c/acquire-valued-shoppers-challenge
+Code for the  Kaggle Competitions.
+http://www.kaggle.com/
 
