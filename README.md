@@ -1,6 +1,6 @@
 kaggle
 ======
 
-Code for the  Kaggle Competitions.
+Code for Kaggle Competitions.
 http://www.kaggle.com/
 
